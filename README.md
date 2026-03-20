@@ -1,2 +1,3 @@
-# micro-survey-tool-0mba
+# Micro Survey Tool 0Mba
+
 A repository to test GitHub automation for issue management.
